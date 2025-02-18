@@ -21,6 +21,8 @@ Herramientas Utilizadas:
 Nombre del archivo con toda el analisis: Evaluacion_Modulo3_Maria_Soneira.ipynb
 <br>Tipo: Jupyter Notebook
 
+* En la carpeta Files encontraras los archivos csv utilizados para este analisis.
+
 Autora: Maria Eleonora Soneira
 
 
